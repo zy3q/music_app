@@ -1,6 +1,6 @@
 <template>
 <div>
-    <span>muMusic</span>
+    myMusic
 </div>
 </template>
 <script>
@@ -10,5 +10,10 @@
     })
 </script>
 <style lang="less" scoped>
-    
+    div{
+        width: fit-content;
+        margin: 0 auto;
+        color: orangered;
+        font-size: xx-large;
+    }
 </style>
