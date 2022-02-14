@@ -2,6 +2,7 @@
     <div id="app">
         <HeaderVue/>
         <TabVue/>
+         <router-view></router-view>
     </div>
 </template>
 
