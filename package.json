@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "Cannot": "^2.4.3",
+    "axios": "^0.26.0",
     "core-js": "^3.6.5",
     "eslint": "^8.9.0",
     "of": "^1.0.0",
