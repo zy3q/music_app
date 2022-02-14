@@ -1,5 +1,7 @@
 <template>
-头部
+<div>
+    <span>muMusic</span>
+</div>
 </template>
 <script>
     import { defineComponent } from "vue";
@@ -7,3 +9,6 @@
         name:"Header",
     })
 </script>
+<style lang="less" scoped>
+    
+</style>
